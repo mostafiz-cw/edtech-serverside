@@ -1,26 +1,26 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Data Science"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "Machine Learning"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "Artificial Intelligence"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Web Development"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "Python"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "MongoDB"
     }
   ]
